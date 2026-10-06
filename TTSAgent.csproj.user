@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\AzureTtsScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\DashboardScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\DictionaryManagerScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\ExtractionResultScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\HumanReviewScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\ScriptInputScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\TtsListScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\Screens\VoiceCheckScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

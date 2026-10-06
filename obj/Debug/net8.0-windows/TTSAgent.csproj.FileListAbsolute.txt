@@ -1,0 +1,29 @@
+D:\Test_Code\TTSAgentForms\bin\Debug\net8.0-windows\TTSAgent.exe
+D:\Test_Code\TTSAgentForms\bin\Debug\net8.0-windows\TTSAgent.deps.json
+D:\Test_Code\TTSAgentForms\bin\Debug\net8.0-windows\TTSAgent.runtimeconfig.json
+D:\Test_Code\TTSAgentForms\bin\Debug\net8.0-windows\TTSAgent.dll
+D:\Test_Code\TTSAgentForms\bin\Debug\net8.0-windows\TTSAgent.pdb
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.MainForm.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.AzureTtsScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.DashboardScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.DictionaryManagerScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.ExtractionResultScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.HumanReviewScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.ScriptInputScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.TtsListScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.UI.Screens.VoiceCheckScreen.resources
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.csproj.GenerateResource.cache
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.AssemblyInfoInputs.cache
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.AssemblyInfo.cs
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.csproj.CoreCompileInputs.cache
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.dll
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\refint\TTSAgent.dll
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.pdb
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\TTSAgent.genruntimeconfig.cache
+D:\Test_Code\TTSAgentForms\obj\Debug\net8.0-windows\ref\TTSAgent.dll
+C:\Users\Ying Dai\AppData\Local\Temp\claude\ttsbuild\TTSAgent.exe
+C:\Users\Ying Dai\AppData\Local\Temp\claude\ttsbuild\TTSAgent.deps.json
+C:\Users\Ying Dai\AppData\Local\Temp\claude\ttsbuild\TTSAgent.runtimeconfig.json
+C:\Users\Ying Dai\AppData\Local\Temp\claude\ttsbuild\TTSAgent.dll
+C:\Users\Ying Dai\AppData\Local\Temp\claude\ttsbuild\TTSAgent.pdb
